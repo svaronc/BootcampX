@@ -14,3 +14,4 @@ GROUP BY
   teacher
 ORDER BY
   teacher;
+
